@@ -1,0 +1,153 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+.list1{
+    float: right;
+    list-style: none;
+    margin: 0%;
+    background-color:rgb(94, 135, 184);
+    color: aqua;
+}
+li{
+    display: inline;
+    padding-right: 3em;
+    padding-bottom: 2em;
+}
+#photo {
+    margin: 15% 45% 0% 45%;
+    width: 10%;
+    border-radius: 5em;
+}
+a:hover{
+    color: aqua;
+}
+a{
+    color: whitesmoke;
+    font-weight: 600;
+    text-decoration: none;
+}
+
+nav{
+    border-bottom: 0.5em;
+    border: 2em solid rgb(94, 135, 184);
+    background-color: rgb(94, 135, 184);
+    text-align: justify;
+}
+#prev{
+    font-size: 2em;
+    border-top: 1em;
+    margin: 0%;
+}
+.i{
+    color: blue;
+    text-decoration: underline;
+}
+.i:hover{
+    color: gray;
+    text-decoration: underline;
+}
+.info   {
+    border: 1px solid cyan;
+    margin: 1% 35% 5% 35%;
+    text-align: center;
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    background-color: cyan;
+    padding-bottom: 2%;
+    padding-top: 2%;
+}
+.n{
+    background-color: black;
+}
+.pic1,.pic2,.pic3{
+    margin-top: 3em;
+    margin-left: 12%;
+   width: 15%;
+}
+.list2{
+    display: inline;
+}
+#about,#skills,#edu,#cont{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: double ;
+}
+footer{
+    text-align: center;
+    background-color: black;
+    color: aliceblue;
+    padding: 2px 2px 2px 2px;
+    margin-bottom: none;
+}
+.aboutpara{
+    margin: 20px 2em 20px 2em;
+    border: 1px solid black;
+    background-color: burlywood;
+    color: black;
+    font-weight: 500;
+}
+.edit{
+    margin: 2em 37.5% 1.5em 36% ;
+    font-size: larger;
+    border: 3px solid black;
+    background-color: black;
+}
+td,th{
+    border: 3px solid black;
+    background-color: bisque;
+}
+.p1{
+    display: inline-block;
+    margin-left: 5%;
+    border: 2px solid black;
+    background-color: bisque;
+}
+#cont{
+    margin-top: 5%;
+    margin-bottom: 6%;
+}
+.coni1,.coni2{
+    width: 5%;
+    opacity: 0.6;
+}
+.email{
+    display: inline;
+}
+.contin{
+    margin: 2em 5em 2em 5em;
+}
+.water{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTm_vw6dv1cVylFXqBWtO1po_9VV41eyURHfw&usqp=CAU");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.email{
+    font-size: larger;
+    border: 2px solid black;
+    text-align: center;
+    margin: 6% auto 3% 38%;
+    padding: 0 0 0 0;
+}
+.conmg{
+    margin:3% auto 6% 45% ;
+    padding: 0 0 0 0;
+
+}
+.arow{
+    position: fixed;
+  bottom: 1em;
+  right: 1em;
+
+  border: 3px solid goldenrod;
+    color: black;
+
+    border-radius: 7em;
+    padding-left: 0.5%;
+    padding-right: 0.5%
+    
+}
+.arow:hover{
+    color: blue;
+}
